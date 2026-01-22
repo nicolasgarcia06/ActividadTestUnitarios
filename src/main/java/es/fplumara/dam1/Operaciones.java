@@ -1,4 +1,4 @@
-package es.fplumara.dam1.operaciones;
+package es.fplumara.dam1;
 
 public class Operaciones {
 

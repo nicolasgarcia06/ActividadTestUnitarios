@@ -8,7 +8,7 @@ public class FacturaService {
         this.calc = calc;
     }
 
-    public int totalConIva(int base) {
-        return calc.sumar(base, 21);
+    public static int totalConIva(int base) {
+        return Calculadora.sumar(base, 21);
     }
 }
